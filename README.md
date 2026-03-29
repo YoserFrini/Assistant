@@ -70,13 +70,7 @@ pip install -r requirements.txt
 uvicorn src.main:app --reload 
 streamlit run app.py
 
-------------------------------------------------------------------------
 
-#  Variables d'environnement
-
-Créer .env :
-
-OPENAI_API_KEY=your_api_key_here
 
 ------------------------------------------------------------------------
 
