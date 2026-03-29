@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X100",
+    "description": "Écran OLED, batterie longue durée, résistance IPX4",
+    "price": "699€"
+  },
+  {
+    "id": 2,
+    "name": "Casque ProSound",
+    "description": "Réduction de bruit active, autonomie 20h",
+    "price": "199€"
+  },
+  {
+    "id": 3,
+    "name": "Laptop UltraBook Z",
+    "description": "Léger, puissant, 16GB RAM, SSD 512GB",
+    "price": "1199€"
+  },
+  {
+    "id": 4,
+    "name": "Tablette TabPlus",
+    "description": "Écran 10 pouces, 128GB stockage, compatible stylet",
+    "price": "499€"
+  },
+  {
+    "id": 5,
+    "name": "Montre SmartFit",
+    "description": "Suivi santé, GPS intégré, étanche",
+    "price": "149€"
+  },
+  {
+    "id": 6,
+    "name": "Enceinte BoomSound",
+    "description": "Bluetooth, son puissant, autonomie 15h",
+    "price": "89€"
+  },
+  {
+    "id": 7,
+    "name": "Clavier mécanique RGB",
+    "description": "Switches rapides, rétroéclairage personnalisable",
+    "price": "129€"
+  },
+  {
+    "id": 8,
+    "name": "Souris Gamer XPro",
+    "description": "Haute précision, DPI ajustable, design ergonomique",
+    "price": "79€"
+  },
+  {
+    "id": 9,
+    "name": "Écran 4K VisionMax",
+    "description": "Résolution UHD, 27 pouces, HDR10",
+    "price": "399€"
+  },
+  {
+    "id": 10,
+    "name": "Disque SSD Turbo 1TB",
+    "description": "Stockage rapide, interface NVMe",
+    "price": "149€"
+  },
+  {
+    "id": 11,
+    "name": "Webcam HD Pro",
+    "description": "1080p, micro intégré, idéal pour visioconférence",
+    "price": "69€"
+  },
+  {
+    "id": 12,
+    "name": "Routeur WiFi 6 UltraNet",
+    "description": "Connexion rapide, couverture large, multi-appareils",
+    "price": "179€"
+  },
+  {
+    "id": 13,
+    "name": "Power Bank MegaCharge",
+    "description": "20000mAh, charge rapide, double USB",
+    "price": "49€"
+  },
+  {
+    "id": 14,
+    "name": "Drone SkyView Mini",
+    "description": "Caméra 4K, contrôle via smartphone, autonomie 25 min",
+    "price": "299€"
+  },
+  {
+    "id": 15,
+    "name": "Console GameBox S",
+    "description": "Graphismes haute performance, 1TB stockage",
+    "price": "499€"
+  },
+  {
+    "id": 16,
+    "name": "Manette Pro Controller",
+    "description": "Sans fil, ergonomique, batterie rechargeable",
+    "price": "59€"
+  },
+  {
+    "id": 17,
+    "name": "Imprimante SmartPrint X",
+    "description": "WiFi, impression rapide, compatible mobile",
+    "price": "159€"
+  },
+  {
+    "id": 18,
+    "name": "Projecteur HomeCinema",
+    "description": "Full HD, 3000 lumens, écran géant",
+    "price": "349€"
+  },
+  {
+    "id": 19,
+    "name": "Microphone Studio Pro",
+    "description": "Qualité professionnelle, USB, idéal streaming",
+    "price": "119€"
+  },
+  {
+    "id": 20,
+    "name": "Station d'accueil USB-C",
+    "description": "Multi-ports, HDMI, USB, Ethernet",
+    "price": "89€"
+  },
+  {
+    "id": 21,
+    "name": "Caméra de sécurité SafeHome",
+    "description": "Vision nocturne, détection mouvement, WiFi",
+    "price": "129€"
+  },
+  {
+    "id": 22,
+    "name": "Ampoule connectée SmartLight",
+    "description": "RGB, contrôle via app, compatible Alexa",
+    "price": "29€"
+  },
+  {
+    "id": 23,
+    "name": "Balance connectée FitScale",
+    "description": "Analyse corporelle, Bluetooth",
+    "price": "59€"
+  },
+  {
+    "id": 24,
+    "name": "Ventilateur USB MiniCool",
+    "description": "Compact, silencieux, alimentation USB",
+    "price": "19€"
+  },
+  {
+    "id": 25,
+    "name": "Chargeur sans fil FastCharge",
+    "description": "Recharge rapide, compatible Qi",
+    "price": "39€"
+  }
+]
