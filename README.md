@@ -63,16 +63,14 @@ Answer + Sources + Confidence
 -   Streamlit
 
 ------------------------------------------------------------------------
-
- Quick Start
-▶️ 1. Lancement en local
-Installation
+ # Quick Start
+ ## 1. Lancement en local
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 Configuration
 
-Créer un fichier .env :
+## 2. Créer un fichier .env :
 
 OPENAI_API_KEY=your_api_key_here
 Lancer l’API
