@@ -73,6 +73,7 @@ Configuration
 ## 2. Créer un fichier .env :
 
 - OPENAI_API_KEY=your_api_key_here
+  
 -Lancer l’API
 uvicorn src.main:app --reload
 -Lancer l’interface
