@@ -74,7 +74,8 @@ Configuration
 
 - OPENAI_API_KEY=your_api_key_here
   
--Lancer l’API
+- Lancer l’API
+
 uvicorn src.main:app --reload
 -Lancer l’interface
 streamlit run app.py
