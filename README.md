@@ -64,11 +64,24 @@ Answer + Sources + Confidence
 
 ------------------------------------------------------------------------
 
-#  Setup 
+ Quick Start
+▶️ 1. Lancement en local
+Installation
+python -m venv venv
+source venv/bin/activate   # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+Configuration
 
-pip install -r requirements.txt 
-uvicorn src.main:app --reload 
+Créer un fichier .env :
+
+OPENAI_API_KEY=your_api_key_here
+Lancer l’API
+uvicorn src.main:app --reload
+Lancer l’interface
 streamlit run app.py
+Accès
+API docs : http://localhost:8000/docs
+Interface : http://localhost:8501
 
 
 
